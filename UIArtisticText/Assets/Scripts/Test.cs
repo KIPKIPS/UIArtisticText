@@ -19,7 +19,7 @@ public class Test : MonoBehaviour {
         NumFont = 230,
     }
     void Start() {
-        SetUIArtisticText(Fontlib.NumFont,"12344",30);
+        SetUIArtisticText(Fontlib.NumFont,"123442556",230);
         // Sprite[] sprites = Resources.LoadAll<Sprite>("Atlas/Nums");
         print(text.preferredHeight);
     }
